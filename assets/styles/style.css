@@ -10,7 +10,7 @@ body {
 header {
     width: 100vw;
     height: 100vh;
-    background: url(assets/images/beachshowcase.jpg) center center/cover no-repeat;
+    background: url(/assets/images/beachshowcase.jpg) center center/cover no-repeat;
     color: #926239;
     text-align: center;
     padding-top: 50vh;
