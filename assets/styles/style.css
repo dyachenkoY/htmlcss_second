@@ -8,7 +8,7 @@ body {
 
 .header {
     width: 100%;
-    height: 100vh;
+    min-height: 100vh;
     background: url(../images/beachshowcase.jpg) center center/cover no-repeat;
     color: #926239;
     text-align: center;
